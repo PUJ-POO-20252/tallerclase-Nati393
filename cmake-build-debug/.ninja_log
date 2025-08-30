@@ -1,0 +1,10 @@
+# ninja log v6
+96	1521	7782442747645073	CMakeFiles/AnalizadorCalificaciones.dir/calificaciones_utils.cpp.obj	26ba4df397556286
+65	1781	7782442747345922	CMakeFiles/AnalizadorCalificaciones.dir/main.cpp.obj	42b09530f013194
+1783	2417	7782442764515827	AnalizadorCalificaciones.exe	6b114d032cba93ff
+31	1578	7782443210782975	CMakeFiles/AnalizadorCalificaciones.dir/main.cpp.obj	42b09530f013194
+1581	2017	7782443226276280	AnalizadorCalificaciones.exe	6b114d032cba93ff
+27	1443	7782443380934003	CMakeFiles/AnalizadorCalificaciones.dir/main.cpp.obj	42b09530f013194
+1444	1805	7782443395103041	AnalizadorCalificaciones.exe	6b114d032cba93ff
+27	1763	7782446658914746	CMakeFiles/AnalizadorCalificaciones.dir/main.cpp.obj	42b09530f013194
+1765	2247	7782446676289741	AnalizadorCalificaciones.exe	6b114d032cba93ff
