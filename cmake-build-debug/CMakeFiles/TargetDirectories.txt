@@ -1,3 +1,0 @@
-C:/Users/HolyP/CLionProjects/AnalizadorCalificaciones/cmake-build-debug/CMakeFiles/AnalizadorCalificaciones.dir
-C:/Users/HolyP/CLionProjects/AnalizadorCalificaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HolyP/CLionProjects/AnalizadorCalificaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
